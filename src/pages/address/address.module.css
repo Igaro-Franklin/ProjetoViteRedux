@@ -37,3 +37,16 @@
   padding: 0 14px;
   font-size: 16px;
 }
+
+.buttonDelete{
+  margin-left: 16px;
+  background-color: red;
+  padding: 4px;
+  border: 0;
+  border-radius: 4px;
+  transition: .6s;
+}
+
+.buttonDelete:hover{
+  color: white;
+}
